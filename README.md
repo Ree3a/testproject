@@ -1,2 +1,2 @@
-calculator 
-![mero calciulator](https://user-images.githubusercontent.com/78842522/115868220-d526c880-a45b-11eb-988f-80ef6cddc61c.PNG)
+![mero calciulator](https://user-images.githubusercontent.com/78842522/115868597-6ac25800-a45c-11eb-8eee-e042ff4a7de4.PNG)
+
